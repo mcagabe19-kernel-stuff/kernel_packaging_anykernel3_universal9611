@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Something New Kernel
+kernel.string=Something New...
 do.devicecheck=1
 do.modules=0
 do.systemless=1
