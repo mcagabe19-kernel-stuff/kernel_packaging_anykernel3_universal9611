@@ -41,7 +41,7 @@ PATCH_VBMETA_FLAG=auto;
 
 # boot install
 split_boot;
-ui_print "- Installing Chaos";
+ui_print "- Installing SN Kernel";
 flash_boot;
 ## end boot install
 
