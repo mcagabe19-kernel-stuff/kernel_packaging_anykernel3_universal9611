@@ -9,9 +9,11 @@
 | |\  |  __/\ V  V /                                
 |_| \_|\___| \_/\_/                                                 
 *****************************************************
-                 INFORMATION
+                    Try the Chaos...
 *****************************************************
- Version   : 1.3.0 - Cross
+                      INFORMATION
+*****************************************************
+ Version   : 1.4.0 - King Of Ink
  Source    : Ported from Tab S6 Lite source code
  Chipset   : Exynos 9611 with Mali G72 MP3
  Android   : Compatible with AOSP 13/14/15, OneUI 4/5/6
@@ -19,9 +21,9 @@
  Support   : Join us on Telegram @Exynos9611Development_chat
 *****************************************************
 *****************************************************
-                 MAIN FEATURES
+                   MAIN FEATURES
 *****************************************************
- - Enhanced Performance: Removed Samsung security components and debugging codes for improved performance.
- - File System Support: Fully supports FBE v2, FS-Verity, and additional features.
- - Driver Updates: Includes the latest version of drivers for optimal compatibility and performance.
+ - Enhanced Performance: Optimized for speed by removing unnecessary Samsung security components and debugging codes.
+ - File System Support: Full support for FBE v2, FS-Verity, and other advanced features for enhanced security and functionality.
+ - Driver Updates: Includes the latest driver versions to ensure optimal compatibility and performance.
 *****************************************************

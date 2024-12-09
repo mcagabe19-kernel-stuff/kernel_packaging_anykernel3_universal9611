@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Something New...
+kernel.string=Something New Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -15,8 +15,10 @@ device.name2=f41
 device.name3=m31s
 device.name4=m31
 device.name5=m21
+device.name6=gta4xl
+device.name7=gta4xlwifi
 supported.versions=13 - 15
-supported.patchlevels=2022-01 -
+supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
 
@@ -39,7 +41,7 @@ PATCH_VBMETA_FLAG=auto;
 
 # boot install
 split_boot;
-ui_print "- Installing Kernel";
+ui_print "- Installing Chaos";
 flash_boot;
 ## end boot install
 
