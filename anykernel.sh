@@ -44,7 +44,4 @@ split_boot;
 ui_print "- Installing SN Kernel";
 flash_boot;
 ## end boot install
-cp $AK_FOLDER/init.swappiness.rc /system_root/system/etc/init/
-chmod 644 system_root/system/etc/init/init.swappiness.rc
-ui_print "Copying swappiness setting script... Done. Finished!"
-ui_print "Installation Done"
+
