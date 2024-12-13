@@ -13,17 +13,20 @@
 *****************************************************
                       INFORMATION
 *****************************************************
- Version   : 1.6.0 - Gigachad
+ Version   : 1.7.0 - Last Breath
  Source    : Ported from Tab S6 Lite source code
  Chipset   : Exynos 9611 with Mali G72 MP3
  Android   : Compatible with AOSP 13/14/15, OneUI 5/6/7?
- Developer : Sans (Telegram: @cat65801)
+ Developer : Sans (Telegram: @Sans9611)
  Support   : Join us on Telegram @Exynos9611Development_chat
 *****************************************************
 *****************************************************
                    MAIN FEATURES
 *****************************************************
- - Enhanced Performance: Optimized for speed by removing unnecessary Samsung security components and debugging codes.
- - File System Support: Full support for FBE v2, FS-Verity, and other advanced features for enhanced security and functionality.
- - Driver Updates: Includes the latest driver versions to ensure optimal compatibility and performance.
+ - Removal of Samsung-specific security and debugging features.
+ - Compiled with Neutron Clang 18 and LLVM binutils.
+ - Includes Erofs, Incremental FS, BinderFS, and various backports.
+ - Enhanced DeX touchpad support for compatible OneUI versions.
+ - Strips away numerous Samsung-introduced debug codes/configurations.
+ - Integrates the WireGuard in-kernel VPN.
 *****************************************************
